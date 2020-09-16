@@ -38,7 +38,7 @@
     "@sendgrid/mail": "^7.1.0",
     "@types/stripe": "^7.13.23",
     "bcrypt": "^4.0.1",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "class-validator": "^0.12.2",
     "config": "^3.3.1",
     "csvtojson": "^2.0.10",
