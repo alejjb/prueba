@@ -37,7 +37,7 @@
     "@ntegral/nestjs-sendgrid": "^1.0.0",
     "@sendgrid/mail": "^7.1.0",
     "@types/stripe": "^7.13.23",
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.12.2",
     "config": "^3.3.1",
